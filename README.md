@@ -8,7 +8,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying PostgreSQL and Django at SoftUni Sofia.\
 🌱 &nbsp;I'm...\
-✍️ &nbsp;In my free time I like to make music under both names - hypnodrum & HDSe7en (with my friend DJ Se7en).\
+✍️ &nbsp;In my free time I like to make music under both artist names - hypnodrum & HDSe7en (with my friend DJ Se7en).\
 💬 &nbsp;Feel free to...\
 ✉️ &nbsp;You can shoot me an email at hypnodrum@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;I'm open to feedback and suggestions!
