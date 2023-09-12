@@ -15,6 +15,9 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
+<img alt="SoftUni Python OOP"
+src="https://i.ibb.co/KF9MFSR/FB-IMG-1694546577502.jpg" align="center"/>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
