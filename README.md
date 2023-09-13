@@ -1,4 +1,3 @@
-
 ![HDSe7en](https://i.ibb.co/5F2V0Pz/hd7.png)
 
 ## 👋 &nbsp;Hey there! I'm Ivan
