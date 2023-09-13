@@ -5,11 +5,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+🎓 &nbsp;I'm a graduated avioengeneer since 2022 and have around 21 years of experience with Mig-21 and Mig-29 aircraft systems and jet engines.
+In 2023, I have successfully finished the Full programing course in Python in SoftUni Sofia.
+Currently, I'm studying PostgreSQL and Django at the same university.\
+🌱 &nbsp;I'm a really positive and open-minded person who really enjoys creating anything from scratch. \
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying PostgreSQL and Django at SoftUni Sofia.\
-🌱 &nbsp;I'm...\
-✍️ &nbsp;In my free time I like to make music under both artist names - hypnodrum & HDSe7en (with my friend DJ Se7en).\
-💬 &nbsp;Feel free to...\
+✍️ &nbsp;In my free time I like to make music under both artist names - Hypnodrum & HDSe7en (with my friend DJ Se7en).\
 ✉️ &nbsp;You can shoot me an email at hypnodrum@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;I'm open to feedback and suggestions!
 
