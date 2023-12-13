@@ -40,11 +40,15 @@ In 2023, I have successfully finished the Full programing course in Python in So
 </p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+
 <p align="left">
-<img alt="Python Basics" src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/135280.png" align="center" width="290" height="400"/>
-<img alt="Python OOP" src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/180837.png" align="center" width="290" height="400"/>
-<img alt="PostgreSQL" src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/186091.png" align="center" width="290" height="400"/>
-<img alt="Django ORM" src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/193859.png" align="center" width="290" height="400"/>
+<img alt="Python Basics" src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/135280.png" align="center" width="300" height="400"/>
+<img alt="Python OOP" src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/180837.png" align="center" width="300" height="400"/>
+</p>
+
+<p align="left">
+<img alt="PostgreSQL" src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/186091.png" align="center" width="300" height="400"/>
+<img alt="Django ORM" src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/193859.png" align="center" width="300" height="400"/>
 </p>
 
 
