@@ -6,8 +6,7 @@
 <h3 align="center"> 👨🏻‍💻 &nbsp;About Me</h3>
 
 🎓 &nbsp;I'm a graduated avioengeneer since 2002 and have around 21 years of experience with Mig-21 and Mig-29 aircraft systems and jet engines.
-In 2023, I have successfully finished the Full programing course in Python in SoftUni Sofia.
-Currently, I'm studying PostgreSQL and Django at the same university.\
+In 2023, I have successfully finished the Full programing course in Python in SoftUni Sofia.\
 🌱 &nbsp;I'm a really positive and open-minded person who really enjoys creating anything from scratch. \
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎹 &nbsp;In my free time I like to make music under both artist names - Hypnodrum & HDSe7en (with my friend DJ Se7en).\
@@ -42,7 +41,10 @@ Currently, I'm studying PostgreSQL and Django at the same university.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
-<img alt="SoftUni Python OOP" src="https://i.ibb.co/KF9MFSR/FB-IMG-1694546577502.jpg" align="center" width="300" height="400"/>
+<img alt="SoftUni Python OOP" src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/135280.png" align="center" width="300" height="400"/>
+<img alt="SoftUni Python OOP" src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/180837.png" align="center" width="300" height="400"/>
+<img alt="SoftUni Python OOP" src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/186091.png" align="center" width="300" height="400"/>
+<img alt="SoftUni Python OOP" src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/193859.png" align="center" width="300" height="400"/>
 
 
 
