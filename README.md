@@ -45,6 +45,7 @@ In 2023, I have successfully finished the Full programing course in Python in So
 <img src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/135280.png" align="center" width="300" height="400"/>
 <img src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/180837.png" align="center" width="300" height="400"/>
 <img src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/186091.png" align="center" width="300" height="400"/>
+  <p>
 <img src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/193859.png" align="center" width="300" height="400"/>
 <img src="https://i.ibb.co/j4FmfN2/django-advanced.png" align="center" width="300" height="500"/>
 <img src="https://i.ibb.co/HTg7PBZ/django-basics.png" align="center" width="300" height="500"/>
