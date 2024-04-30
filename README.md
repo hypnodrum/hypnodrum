@@ -49,8 +49,8 @@ In 2023, I have successfully finished the Full programing course in Python in So
 
 <p align="left">
 <img alt="Django ORM" src="https://raw.githubusercontent.com/hypnodrum/SoftUni/main/certificates/193859.png" align="center" width="300" height="400"/>
-<img src="https://i.ibb.co/HTg7PBZ/django-basics.png" align="center" width="300" height="500" alt="Django Basics"/>
 <img src="https://i.ibb.co/j4FmfN2/django-advanced.png" align="center" width="300" height="500" alt="Django Advanced"/>
+<img src="https://i.ibb.co/HTg7PBZ/django-basics.png" align="center" width="300" height="500" alt="Django Basics"/>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
