@@ -60,7 +60,7 @@ In 2023, I successfully finished the full programming course in Python at SoftUn
     </td>
     <td align="center" width="60">
       <a href="https://www.microsoft.com/bg-bg/microsoft-365/excel" target="_blank">
-        <img src="https://static-00.iconduck.com/assets.00/ms-excel-icon-512x506-kad3cmyu.png" alt="excel" width="45" height="45"/> </a>
+        <img src="https://raw.githubusercontent.com/sempostma/office365-icons/refs/heads/master/png/256/excel.png" alt="excel" width="45" height="45"/> </a>
       </a>
     </td>
     <td align="center" width="60">
