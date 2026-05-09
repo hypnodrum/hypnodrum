@@ -60,7 +60,7 @@ In 2023, I successfully finished the full programming course in Python at SoftUn
     </td>
     <td align="center" width="60">
       <a href="https://www.microsoft.com/bg-bg/microsoft-365/excel" target="_blank">
-        <img src="https://static-00.iconduck.com/assets.00/ms-excel-icon-512x506-kad3cmyu.png" alt="excel" width="42" height="42"/>
+        <img src="https://static-00.iconduck.com/assets.00/ms-excel-icon-512x506-kad3cmyu.png" alt="excel" width="45" height="45"/> </a>
       </a>
     </td>
     <td align="center" width="60">
@@ -90,23 +90,32 @@ In 2023, I successfully finished the full programming course in Python at SoftUn
 
 <h3 align="center">Connect with me</h3>
 
-<p align="center">
-  <a href="https://twitter.com/hypnodrum" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hypnodrum twitter" height="35" width="45" />
-  </a>
-  &nbsp;
-  <a href="https://fb.com/hypnodrum" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hypnodrum facebook" height="35" width="45" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/hypnodrum" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hypnodrum instagram" height="35" width="45" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/c/hypnodrum" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hypnodrum youtube" height="35" width="45" />
-  </a>
-</p>
+<h3 align="center">Connect with me</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="60">
+      <a href="https://twitter.com/hypnodrum" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hypnodrum twitter" height="35" width="45" />
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://fb.com/hypnodrum" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hypnodrum facebook" height="35" width="45" />
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://instagram.com/hypnodrum" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hypnodrum instagram" height="35" width="45" />
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.youtube.com/c/hypnodrum" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hypnodrum youtube" height="35" width="45" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
