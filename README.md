@@ -21,55 +21,70 @@ In 2023, I successfully finished the full programming course in Python at SoftUn
 
 <h3 align="center">Languages and Tools</h3>
 
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/hypnodrum" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.microsoft.com/bg-bg/microsoft-365/excel" target="_blank">
-    <img src="https://static-00.iconduck.com/assets.00/ms-excel-icon-512x506-kad3cmyu.png" alt="excel" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.apple.com/bg/macos/what-is/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/>
-  </a>
-  &nbsp;
-  <a href="https://www.windows.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="45" height="45"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="60">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://github.com/hypnodrum" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="42" height="42"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.microsoft.com/bg-bg/microsoft-365/excel" target="_blank">
+        <img src="https://static-00.iconduck.com/assets.00/ms-excel-icon-512x506-kad3cmyu.png" alt="excel" width="42" height="42"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.apple.com/bg/macos/what-is/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="42" height="42"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://developer.android.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42"/>
+      </a>
+    </td>
+    <td align="center" width="60">
+      <a href="https://www.windows.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="42" height="42"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
